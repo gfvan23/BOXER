@@ -1,4 +1,3 @@
-
 # BOXER:
 
 ## The FORTRAN 77 routine package, manual and .exe files are taken from:
