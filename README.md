@@ -8,6 +8,9 @@
 ### Gasperini P., Vannucci G., Tripone D. and Boschi E. (2010). The Location and Sizing of Historical Earthquakes Using the Attenuation of Macroseismic Intensity with Distance. Bull. Seismol. Soc. Am., 100(5A), 2035–2066. https://doi.org/10.1785/0120090330
 
 ### Latest version
+### Version 5 (May 2026)
+
+Previous versions:
 ### Version 4.2.1 (March 2022)
 
 ### Older, unmaintained versions of Boxer
