@@ -1,6 +1,6 @@
 # BOXER:
 
-## The FORTRAN 77 routine package, manual and .exe files are taken from:
+## The FORTRAN 77 routine package, manual and executable (.exe, .e, .u) files are taken from:
 
 
 ### Vannucci G. and Gasperini P. (2026). BOXER N° 5: The essence of a tool for macroseismic data processing, submitted to Bulletin of Earthquake Engineering
